@@ -61,7 +61,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40" />
     </a>
     <a href="https://htmx.org/" target="_blank" rel="noreferrer">
-        <img src="simple-icons:htmx" alt="htmx" width="40" height="40" />
+        <img src="![image](https://github.com/user-attachments/assets/b810a367-5ed8-4989-9842-c476244875b7)
+" alt="htmx" width="40" height="40" />
     </a>
 </p>
 
