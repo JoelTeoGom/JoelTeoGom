@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/joel-teodoro-gomez/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://joelteogom.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
@@ -41,6 +41,7 @@
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="50" height="50" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" style="margin: 10px;" />
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="margin: 10px;" />
 </p>
 
 ---
@@ -66,4 +67,5 @@
 
 ### 👀 Fun Fact
 
-I love solving puzzles and coding challenges to keep my skills sharp and my mind engaged!
+I love solving puzzles and tackling coding challenges on platforms like **LeetCode** and **Advent of Code** to keep my skills sharp and my mind engaged!
+
