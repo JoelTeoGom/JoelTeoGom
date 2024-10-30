@@ -67,6 +67,7 @@
 
 ### 👀 Fun Fact
 
-I love solving puzzles and tackling coding challenges on platforms like [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/) and [![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-000000?style=flat-square&logo=github&logoColor=white)](https://adventofcode.com/) to keep my skills sharp and my mind engaged!
+I love solving puzzles and tackling coding challenges on platforms like [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/) and [![Advent of Code](https://img.shields.io/badge/-Advent%20of%20Code-000000?style=flat&logo=AdventOfCode&logoColor=white)](https://adventofcode.com/) to keep my skills sharp and my mind engaged!
+
 
 
