@@ -52,7 +52,6 @@
 <p align="center">
   <!-- Frameworks / Dev -->
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" height="45" />
 </p>
@@ -68,7 +67,6 @@
   <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45" />
 </p>
 
@@ -93,5 +91,4 @@
 I love solving puzzles and tackling coding challenges on platforms like
 [LeetCode](https://leetcode.com/) and [Advent of Code](https://adventofcode.com/).
 
-Also, I enjoy building **small “for-fun” projects** that end up being genuinely useful in my day-to-day life:
-tiny automations, CLI tools, and little services that remove friction.
+Also, I enjoy building **small “for-fun” projects** that end up being genuinely useful in my day-to-day life.
