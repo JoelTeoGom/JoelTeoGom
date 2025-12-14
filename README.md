@@ -40,8 +40,6 @@
 
 ## 🧰 Toolbox
 
-## 🧰 Toolbox
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img
