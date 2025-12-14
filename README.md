@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joel Teodoro</h1>
-<h3 align="center">A Passionate Software Engineer from Spain</h3>
+<h3 align="center">Backend Software Engineer from Spain 🇪🇸</h3>
+
+<p align="center">
+  I build scalable backend systems, love clean architectures, and enjoy turning everyday annoyances into small useful tools.
+</p>
 
 ---
 
@@ -17,57 +21,77 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌱 **Backend Developer** focused on building scalable applications
-- 💬 **Ask me about:** Golang, Spring Boot
-- 📫 **How to reach me:** joel.teodoro.software@gmail.com
+- 🌱 Backend developer focused on **scalable** and **maintainable** services
+- 💬 Ask me about: **Go**, **Spring Boot**, microservices, messaging
+- 📫 Reach me at: **joel.teodoro.software@gmail.com**
 
 ---
 
-### 🛠️ Languages & Tools
+## 🚀 Focus Right Now
+
+- Building **scalable microservices** with **Golang**
+- Improving my **Docker** workflows and **Kafka** knowledge
+- Experimenting with **Kubernetes** deployments & cloud-native patterns
+- Getting better at **system design** and **distributed systems** fundamentals
+
+---
+
+## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="50" height="50" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="50" height="50" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka" width="50" height="50" style="margin: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="50" height="50" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" style="margin: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="margin: 10px;" />
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
+</p>
+
+<p align="center">
+  <!-- Frameworks / Dev -->
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" height="45" />
+</p>
+
+<p align="center">
+  <!-- Data / Messaging -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="45" height="45" />
+</p>
+
+<p align="center">
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joelteogom&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api?username=joelteogom&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joelteogom&theme=radical" alt="GitHub Streak" width="400"/>
+</p>
+
+<p align="center">
+  <!-- FIXED: moved to demolab endpoint -->
+  <img src="https://streak-stats.demolab.com?user=joelteogom&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="420"/>
 </p>
 
 ---
 
-### 🚀 Current Projects & Learning Goals
+## 👀 Fun Fact
 
-- **Exploring** microservices and cloud infrastructure
-- **Developing** scalable microservices with Golang
-- **Enhancing** Docker containerization skills and Kafka knowledge
-- **Experimenting** with Kubernetes for scalable deployments
+I love solving puzzles and tackling coding challenges on platforms like
+[LeetCode](https://leetcode.com/) and [Advent of Code](https://adventofcode.com/).
 
----
-
-### 👀 Fun Fact
-
-I love solving puzzles and tackling coding challenges on platforms like [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/) and [![Advent of Code](https://img.shields.io/badge/-Advent%20of%20Code-000000?style=flat&logo=AdventOfCode&logoColor=white)](https://adventofcode.com/) to keep my skills sharp and my mind engaged!
-
-
-
+Also, I enjoy building **small “for-fun” projects** that end up being genuinely useful in my day-to-day life:
+tiny automations, CLI tools, and little services that remove friction.
