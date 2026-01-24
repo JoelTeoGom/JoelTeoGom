@@ -1,74 +1,226 @@
-<h1 align="center">Hi 👋, I'm Joel Teodoro</h1>
-<h3 align="center">Backend Software Engineer from Spain 🇪🇸</h3>
+```
+       ██╗ ██████╗ ███████╗██╗
+       ██║██╔═══██╗██╔════╝██║
+       ██║██║   ██║█████╗  ██║
+  ██   ██║██║   ██║██╔══╝  ██║
+  ╚█████╔╝╚██████╔╝███████╗███████╗
+   ╚════╝  ╚═════╝ ╚══════╝╚══════╝
+```
 
 <p align="center">
-  I build scalable backend systems, love clean architectures, and enjoy turning everyday annoyances into small useful tools.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Backend+Engineer+%7C+Building+things+that+scale;Go+%E2%80%A2+Distributed+Systems+%E2%80%A2+Clean+Code;Breaking+things+in+production+since+2020" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
+
+### `$ whoami`
+
+```go
+package main
+
+import "fmt"
+
+type Developer struct {
+    Name      string
+    Role      string
+    Location  string
+    Languages []string
+    Interests []string
+}
+
+func (d Developer) String() string {
+    return fmt.Sprintf("%s — %s from %s", d.Name, d.Role, d.Location)
+}
+
+func (d Developer) CurrentlyLearning() string {
+    return "Always something new in distributed systems"
+}
+
+func main() {
+    me := Developer{
+        Name:      "Joel Teodoro",
+        Role:      "Backend Engineer",
+        Location:  "Spain 🇪🇸",
+        Languages: []string{"Go", "Java", "Python", "C"},
+        Interests: []string{
+            "Scalable microservices",
+            "Event-driven architectures",
+            "Making things faster",
+            "Breaking things to understand them",
+        },
+    }
+
+    fmt.Println(me)
+    // Output: Joel Teodoro — Backend Engineer from Spain 🇪🇸
+}
+```
+
+---
+
+### `$ cat stack.yml`
+
+```yaml
+backend:
+  primary:
+    - go          # current obsession
+    - java        # spring boot ecosystem
+  secondary:
+    - python      # scripting & automation
+    - c           # when i need to go low-level
+
+frameworks:
+  - spring-boot   # enterprise stuff
+  - gin           # fast & lightweight
+  - grpc          # service communication
+
+infrastructure:
+  containers: [docker, kubernetes]
+  messaging:  [kafka, rabbitmq]
+  databases:  [postgresql, redis, mongodb]
+
+practices:
+  - clean-architecture
+  - domain-driven-design
+  - event-sourcing
+  - test-driven-development
+```
+
+---
+
+### `$ ps aux | grep focus`
+
+```diff
++ Building microservices with Go — obsessed with performance & simplicity
++ Deep diving into Kafka internals — event streaming is beautiful
++ Kubernetes patterns — making deployments boring (in a good way)
++ System design — preparing for scale before it's needed
+
+- Premature optimization (learning to resist)
+- Writing code without tests (never again)
+```
+
+---
+
+### `$ tree ~/projects --favorites`
+
+<table>
+<tr>
+<td width="50%">
+
+**🔧 CLI Tools**
+> Small tools that solve real problems
+
+Building utilities that automate the boring stuff. If I do something twice, it becomes a script. If I do it three times, it becomes a tool.
+
+</td>
+<td width="50%">
+
+**⚡ Distributed Systems**
+> Learning by building
+
+Experimenting with consensus algorithms, event sourcing, and everything that can go wrong in distributed environments (spoiler: everything).
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🎯 Backend APIs**
+> REST, gRPC, GraphQL
+
+Designing APIs that developers actually enjoy using. Documentation included, because past me hates undocumented APIs.
+
+</td>
+<td width="50%">
+
+**🧪 Playground**
+> Where ideas go to be tested
+
+Random experiments, proof of concepts, and "what if I try this?" projects. Most fail, some become real tools.
+
+</td>
+</tr>
+</table>
+
+---
+
+### `$ curl -s api.joel.dev/links`
+
+```json
+{
+  "email": "joel.teodoro.software@gmail.com",
+  "linkedin": "linkedin.com/in/joel-teodoro-gomez",
+  "portfolio": "joelteogom.github.io",
+  "status": "open to interesting conversations"
+}
+```
 
 <p align="center">
   <a href="mailto:joel.teodoro.software@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/joel-teodoro-gomez/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://joelteogom.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=safari" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🌱 Backend developer focused on **scalable** and **maintainable** services
-- 💬 Ask me about: **Go**, **Spring Boot**, microservices, messaging
-- 📫 Reach me at: **joel.teodoro.software@gmail.com**
-
----
-
-## 🚀 Focus Right Now
-
-- Building **scalable microservices** with **Golang**
-- Improving my **Docker** workflows and **Kafka** knowledge
-- Experimenting with **Kubernetes** deployments & cloud-native patterns
-- Getting better at **system design** and **distributed systems** fundamentals
-
----
-
-## 🧰 Toolbox
+<details>
+<summary><b>📊 git log --oneline --graph (stats)</b></summary>
+<br>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=go,c,python,java,js,spring,docker,kubernetes,redis,kafka,rabbitmq,postgres,mysql,mongodb&perline=7"
-      alt="Tech Stack"
-    />
-  </a>
-</p>
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joelteogom&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=joelteogom&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joelteogom&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" width="400"/>
 </p>
 
 <p align="center">
-  <!-- FIXED: moved to demolab endpoint -->
-  <img src="https://streak-stats.demolab.com?user=joelteogom&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joelteogom&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" width="350"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joelteogom&theme=github-dark&hide_border=true&bg_color=00000000" width="700"/>
+</p>
+
+</details>
 
 ---
 
-## 👀 Fun Fact
+<details>
+<summary><b>💭 random.thoughts()</b></summary>
+<br>
 
-I love solving puzzles and tackling coding challenges on platforms like
-[LeetCode](https://leetcode.com/) and [Advent of Code](https://adventofcode.com/).
+```go
+func init() {
+    thoughts := []string{
+        "The best code is the code you don't write",
+        "Logs are love letters to your future self",
+        "If it's not tested, it's broken — you just don't know it yet",
+        "Good APIs are designed, not discovered",
+        "Premature optimization is the root of all evil, but so is premature abstraction",
+    }
 
-Also, I enjoy building **small “for-fun” projects** that end up being genuinely useful in my day-to-day life.
+    rand.Shuffle(len(thoughts), func(i, j int) {
+        thoughts[i], thoughts[j] = thoughts[j], thoughts[i]
+    })
+}
+```
+
+</details>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joelteogom&color=58A6FF&style=flat-square&label=profile+views" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <sub>
+    <code>// TODO: write better commit messages</code>
+  </sub>
+</p>
