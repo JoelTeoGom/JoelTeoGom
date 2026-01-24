@@ -109,7 +109,7 @@ practices:
 <tr>
 <td width="50%">
 
-**🔧 CLI Tools**
+**`>_` CLI Tools**
 > Small tools that solve real problems
 
 Building utilities that automate the boring stuff. If I do something twice, it becomes a script. If I do it three times, it becomes a tool.
@@ -117,7 +117,7 @@ Building utilities that automate the boring stuff. If I do something twice, it b
 </td>
 <td width="50%">
 
-**⚡ Distributed Systems**
+**`{ }` Distributed Systems**
 > Learning by building
 
 Experimenting with consensus algorithms, event sourcing, and everything that can go wrong in distributed environments (spoiler: everything).
@@ -127,7 +127,7 @@ Experimenting with consensus algorithms, event sourcing, and everything that can
 <tr>
 <td width="50%">
 
-**🎯 Backend APIs**
+**`/api` Backend APIs**
 > REST, gRPC, GraphQL
 
 Designing APIs that developers actually enjoy using. Documentation included, because past me hates undocumented APIs.
@@ -135,7 +135,7 @@ Designing APIs that developers actually enjoy using. Documentation included, bec
 </td>
 <td width="50%">
 
-**🧪 Playground**
+**`./lab` Playground**
 > Where ideas go to be tested
 
 Random experiments, proof of concepts, and "what if I try this?" projects. Most fail, some become real tools.
@@ -159,57 +159,26 @@ Random experiments, proof of concepts, and "what if I try this?" projects. Most 
 
 <p align="center">
   <a href="mailto:joel.teodoro.software@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/joel-teodoro-gomez/">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://joelteogom.github.io/">
-    <img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=safari" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
 <details>
-<summary><b>📊 git log --oneline --graph (stats)</b></summary>
+<summary><code>$ git stats</code></summary>
 <br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joelteogom&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" width="400"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joelteogom&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" width="350"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joelteogom&theme=github-dark&hide_border=true&bg_color=00000000" width="700"/>
-</p>
-
-</details>
-
----
-
-<details>
-<summary><b>💭 random.thoughts()</b></summary>
-<br>
-
-```go
-func init() {
-    thoughts := []string{
-        "The best code is the code you don't write",
-        "Logs are love letters to your future self",
-        "If it's not tested, it's broken — you just don't know it yet",
-        "Good APIs are designed, not discovered",
-        "Premature optimization is the root of all evil, but so is premature abstraction",
-    }
-
-    rand.Shuffle(len(thoughts), func(i, j int) {
-        thoughts[i], thoughts[j] = thoughts[j], thoughts[i]
-    })
-}
-```
 
 </details>
 
