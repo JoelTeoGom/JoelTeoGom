@@ -159,28 +159,26 @@ Random experiments, proof of concepts, and "what if I try this?" projects. Most 
 
 <p align="center">
   <a href="mailto:joel.teodoro.software@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/joel-teodoro-gomez/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://joelteogom.github.io/">
-    <img src="https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/portfolio-000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-<details>
-<summary><code>$ git stats</code></summary>
-<br>
+### `$ git log --stat`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joelteogom&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joelteogom&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" width="350"/>
 </p>
-
-</details>
 
 ---
 
