@@ -4,14 +4,7 @@
 
 <div align="center">
 
-```diff
-+       ██╗ ██████╗ ███████╗██╗
-+       ██║██╔═══██╗██╔════╝██║
-+       ██║██║   ██║█████╗  ██║
-+  ██   ██║██║   ██║██╔══╝  ██║
-+  ╚█████╔╝╚██████╔╝███████╗███████╗
-+   ╚════╝  ╚═════╝ ╚══════╝╚══════╝
-```
+<img src="./assets/joel-wave.svg" width="450" alt="Joel Teodoro"/>
 
 **`Backend Engineer`** · **`Spain 🇪🇸`**
 
@@ -24,15 +17,15 @@
 <br><br>
 
 <a href="mailto:joel.teodoro.software@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail" width="24" height="24" alt="Gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="32" height="32" alt="Gmail"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/joel-teodoro-gomez/">
-  <img src="https://cdn.simpleicons.org/linkedin" width="24" height="24" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://joelteogom.github.io/">
-  <img src="https://cdn.simpleicons.org/googlechrome" width="24" height="24" alt="Portfolio"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/globe--v1.png" width="32" height="32" alt="Portfolio"/>
 </a>
 
 </div>
@@ -186,20 +179,6 @@ Random experiments, proof of concepts, and "what if I try this?" projects. Most 
   "status": "open to interesting conversations"
 }
 ```
-
-<p align="center">
-<a href="mailto:joel.teodoro.software@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail" width="28" height="28" alt="Gmail"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/joel-teodoro-gomez/">
-  <img src="https://cdn.simpleicons.org/linkedin" width="28" height="28" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://joelteogom.github.io/">
-  <img src="https://cdn.simpleicons.org/googlechrome" width="28" height="28" alt="Portfolio"/>
-</a>
-</p>
 
 ---
 

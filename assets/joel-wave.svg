@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120">
+  <style>
+    .pixel { fill: #00ff88; }
+    .subtitle { fill: #6e7681; font-family: monospace; font-size: 12px; }
+
+    .row1 { animation: wave 2s ease-in-out infinite; }
+    .row2 { animation: wave 2s ease-in-out infinite; animation-delay: 0.1s; }
+    .row3 { animation: wave 2s ease-in-out infinite; animation-delay: 0.2s; }
+    .row4 { animation: wave 2s ease-in-out infinite; animation-delay: 0.3s; }
+    .row5 { animation: wave 2s ease-in-out infinite; animation-delay: 0.4s; }
+    .row6 { animation: wave 2s ease-in-out infinite; animation-delay: 0.5s; }
+
+    @keyframes wave {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-3px); }
+    }
+  </style>
+
+  <!-- JOEL Pixel Art -->
+  <g class="row1">
+    <text x="200" y="20" text-anchor="middle" class="pixel" font-family="monospace" font-size="14" font-weight="bold">       ██╗ ██████╗ ███████╗██╗</text>
+  </g>
+  <g class="row2">
+    <text x="200" y="34" text-anchor="middle" class="pixel" font-family="monospace" font-size="14" font-weight="bold">       ██║██╔═══██╗██╔════╝██║</text>
+  </g>
+  <g class="row3">
+    <text x="200" y="48" text-anchor="middle" class="pixel" font-family="monospace" font-size="14" font-weight="bold">       ██║██║   ██║█████╗  ██║</text>
+  </g>
+  <g class="row4">
+    <text x="200" y="62" text-anchor="middle" class="pixel" font-family="monospace" font-size="14" font-weight="bold">  ██   ██║██║   ██║██╔══╝  ██║</text>
+  </g>
+  <g class="row5">
+    <text x="200" y="76" text-anchor="middle" class="pixel" font-family="monospace" font-size="14" font-weight="bold">  ╚█████╔╝╚██████╔╝███████╗███████╗</text>
+  </g>
+  <g class="row6">
+    <text x="200" y="90" text-anchor="middle" class="pixel" font-family="monospace" font-size="14" font-weight="bold">   ╚════╝  ╚═════╝ ╚══════╝╚══════╝</text>
+  </g>
+
+  <!-- Subtitle -->
+  <text x="200" y="112" text-anchor="middle" class="subtitle">Joel Teodoro • Backend Engineer</text>
+</svg>
