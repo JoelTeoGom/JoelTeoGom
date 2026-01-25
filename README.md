@@ -1,50 +1,66 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- IDE: GitHub Profile • Theme: Dark • Author: Joel Teodoro                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                                                                                        -->
+<!--   ██████╗ ███████╗██╗   ██╗    ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗   -->
+<!--   ██╔══██╗██╔════╝██║   ██║    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝   -->
+<!--   ██║  ██║█████╗  ██║   ██║    ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗     -->
+<!--   ██║  ██║██╔══╝  ╚██╗ ██╔╝    ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝     -->
+<!--   ██████╔╝███████╗ ╚████╔╝     ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗   -->
+<!--   ╚═════╝ ╚══════╝  ╚═══╝      ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝   -->
+<!--                                                                                        -->
+<!--   Theme: Dark IDE   |   Accent: #00ff88   |   Author: Joel Teodoro                     -->
+<!--                                                                                        -->
+<!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
+<!-- ╔══════════════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                              PIXEL ART HEADER                                     ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════════════════╝ -->
+
+```diff
++       ██╗ ██████╗ ███████╗██╗
++       ██║██╔═══██╗██╔════╝██║
++       ██║██║   ██║█████╗  ██║
++  ██   ██║██║   ██║██╔══╝  ██║
++  ╚█████╔╝╚██████╔╝███████╗███████╗
++   ╚════╝  ╚═════╝ ╚══════╝╚══════╝
 ```
 
-     ╭──────────────────────────────────────────────────────────────────────────╮
-     │                                                                          │
-     │        ▀▀█ █▀▀█ █▀▀ █                                                    │
-     │          █ █  █ █▀▀ █                                                    │
-     │       █▄▄█ ▀▀▀▀ ▀▀▀ ▀▀▀                                                  │
-     │                                                                          │
-     │       // Backend Engineer • Spain 🇪🇸                                    │
-     │                                                                          │
-     ╰──────────────────────────────────────────────────────────────────────────╯
-
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=435&lines=%24+echo+%22Building+things+that+scale%22;%24+go+run+distributed-systems.go;%24+kubectl+apply+-f+production.yml" alt="Typing SVG" />
+<sub>Backend Engineer • Spain 🇪🇸</sub>
 
 <br>
 
-<!-- ─────────────────────────────── SOCIAL ICONS ─────────────────────────────── -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=450&lines=joel%40ide%3A~%24+echo+%22Building+things+that+scale%22;joel%40ide%3A~%24+go+run+distributed-systems.go;joel%40ide%3A~%24+kubectl+apply+-f+production.yml" alt="Typing SVG" />
 
-<a href="mailto:joel.teodoro.software@gmail.com"><img src="https://img.shields.io/badge/%20-0d1117?style=flat-square&logo=gmail&logoColor=6e7681" height="28"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/joel-teodoro-gomez/"><img src="https://img.shields.io/badge/%20-0d1117?style=flat-square&logo=linkedin&logoColor=6e7681" height="28"/></a>&nbsp;
-<a href="https://joelteogom.github.io/"><img src="https://img.shields.io/badge/%20-0d1117?style=flat-square&logo=safari&logoColor=6e7681" height="28"/></a>
+<br><br>
+
+<!-- ─────────────────────────────── SOCIAL ICONS (SVG only) ─────────────────────────────── -->
+
+<a href="mailto:joel.teodoro.software@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/00ff88" width="28" height="28" alt="Email"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/joel-teodoro-gomez/">
+  <img src="https://cdn.simpleicons.org/linkedin/00ff88" width="28" height="28" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://joelteogom.github.io/">
+  <img src="https://cdn.simpleicons.org/safari/00ff88" width="28" height="28" alt="Portfolio"/>
+</a>
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
 
-<table align="center"><tr><td>
-<sub>&nbsp;&nbsp;📁 README.md&nbsp;&nbsp;</sub>
-</td><td>
-<sub>&nbsp;&nbsp;terminal&nbsp;&nbsp;</sub>
-</td><td>
-<sub>&nbsp;&nbsp;output&nbsp;&nbsp;</sub>
-</td></tr></table>
+<p align="center">
+<code>README.md</code> │ <code>terminal</code> │ <code>output</code>
+</p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
 
-### `$ whoami`
+### `joel@ide:~$ whoami`
 
 ```go
 package main
@@ -86,11 +102,9 @@ func main() {
 }
 ```
 
-<sub>▸ go run whoami.go</sub>
+<!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-### `$ cat stack.yml`
+### `joel@ide:~$ cat stack.yml`
 
 ```yaml
 # ─────────────────────────────────────────────────────────────
@@ -122,11 +136,9 @@ practices:
   - test-driven-development
 ```
 
-<sub>▸ cat ~/.config/stack.yml</sub>
+<!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-### `$ ps aux | grep focus`
+### `joel@ide:~$ ps aux | grep focus`
 
 ```diff
 @@ current focus @@
@@ -142,18 +154,16 @@ practices:
 - Writing code without tests (never again)
 ```
 
-<sub>▸ ps aux | grep -E "(focus|avoid)" --color=always</sub>
+<!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-### `$ tree ~/projects --favorites`
+### `joel@ide:~$ tree ~/projects --favorites`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-```
-📂 cli-tools/
+```bash
+# >_ cli-tools/
 ├── README.md
 ├── cmd/
 └── internal/
@@ -161,7 +171,7 @@ practices:
 
 **`>_` CLI Tools**
 
-<sub>Small tools that solve real problems</sub>
+<sup>Small tools that solve real problems</sup>
 
 Building utilities that automate the boring stuff.
 If I do something twice, it becomes a script.
@@ -170,8 +180,8 @@ If I do it three times, it becomes a tool.
 </td>
 <td width="50%" valign="top">
 
-```
-📂 distributed/
+```bash
+# { } distributed/
 ├── README.md
 ├── consensus/
 └── events/
@@ -179,7 +189,7 @@ If I do it three times, it becomes a tool.
 
 **`{ }` Distributed Systems**
 
-<sub>Learning by building</sub>
+<sup>Learning by building</sup>
 
 Experimenting with consensus algorithms,
 event sourcing, and everything that can go
@@ -190,8 +200,8 @@ wrong in distributed environments (spoiler: everything).
 <tr>
 <td width="50%" valign="top">
 
-```
-📂 apis/
+```bash
+# /api apis/
 ├── README.md
 ├── handlers/
 └── middleware/
@@ -199,7 +209,7 @@ wrong in distributed environments (spoiler: everything).
 
 **`/api` Backend APIs**
 
-<sub>REST, gRPC, GraphQL</sub>
+<sup>REST, gRPC, GraphQL</sup>
 
 Designing APIs that developers actually enjoy
 using. Documentation included, because past
@@ -208,8 +218,8 @@ me hates undocumented APIs.
 </td>
 <td width="50%" valign="top">
 
-```
-📂 playground/
+```bash
+# ./lab playground/
 ├── README.md
 ├── experiments/
 └── poc/
@@ -217,7 +227,7 @@ me hates undocumented APIs.
 
 **`./lab` Playground**
 
-<sub>Where ideas go to be tested</sub>
+<sup>Where ideas go to be tested</sup>
 
 Random experiments, proof of concepts, and
 "what if I try this?" projects. Most fail,
@@ -227,11 +237,9 @@ some become real tools.
 </tr>
 </table>
 
-<sub>▸ tree ~/projects -L 2 --dirsfirst</sub>
+<!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-### `$ curl -s api.joel.dev/links`
+### `joel@ide:~$ curl -s api.joel.dev/links`
 
 ```json
 {
@@ -243,31 +251,29 @@ some become real tools.
 ```
 
 <p align="center">
-  <a href="mailto:joel.teodoro.software@gmail.com">
-    <img src="https://img.shields.io/badge/%20-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/joel-teodoro-gomez/">
-    <img src="https://img.shields.io/badge/%20-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88" alt="LinkedIn"/>
-  </a>
-  <a href="https://joelteogom.github.io/">
-    <img src="https://img.shields.io/badge/%20-0d1117?style=for-the-badge&logo=safari&logoColor=00ff88" alt="Portfolio"/>
-  </a>
+<a href="mailto:joel.teodoro.software@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/00ff88" width="32" height="32" alt="Email"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/joel-teodoro-gomez/">
+  <img src="https://cdn.simpleicons.org/linkedin/00ff88" width="32" height="32" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://joelteogom.github.io/">
+  <img src="https://cdn.simpleicons.org/safari/00ff88" width="32" height="32" alt="Portfolio"/>
+</a>
 </p>
 
-<sub>▸ curl -s api.joel.dev/links | jq .</sub>
+<!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-### `$ git log --stat`
+### `joel@ide:~$ git log --stat`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joelteogom&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=6e7681" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joelteogom&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=6e7681" width="340"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joelteogom&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=6e7681&ring_color=00ff88" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joelteogom&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=6e7681" width="340"/>
 </p>
 
-<sub>▸ git log --oneline --graph --all | head -20</sub>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <br>
 
@@ -276,9 +282,9 @@ some become real tools.
 </p>
 
 <p align="center">
-  <sub><code>// TODO: write better commit messages</code></sub>
+  <code>// TODO: write better commit messages</code>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- EOF                                                                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- EOF                                                                                    -->
+<!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
