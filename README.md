@@ -25,7 +25,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://joelteogom.github.io/">
-  <img src="https://skillicons.dev/icons?i=chrome" width="32" height="32" alt="Portfolio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="32" height="32" alt="Portfolio"/>
 </a>
 
 </div>
