@@ -25,7 +25,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://joelteogom.github.io/">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/globe--v1.png" width="32" height="32" alt="Portfolio"/>
+  <img src="https://skillicons.dev/icons?i=chrome" width="32" height="32" alt="Portfolio"/>
 </a>
 
 </div>
