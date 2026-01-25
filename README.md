@@ -1,17 +1,43 @@
-```
-       ██╗ ██████╗ ███████╗██╗
-       ██║██╔═══██╗██╔════╝██║
-       ██║██║   ██║█████╗  ██║
-  ██   ██║██║   ██║██╔══╝  ██║
-  ╚█████╔╝╚██████╔╝███████╗███████╗
-   ╚════╝  ╚═════╝ ╚══════╝╚══════╝
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!--  Theme: Terminal Dark  •  Accent: #00ff88  •  Author: Joel Teodoro            -->
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```diff
++       ██╗ ██████╗ ███████╗██╗
++       ██║██╔═══██╗██╔════╝██║
++       ██║██║   ██║█████╗  ██║
++  ██   ██║██║   ██║██╔══╝  ██║
++  ╚█████╔╝╚██████╔╝███████╗███████╗
++   ╚════╝  ╚═════╝ ╚══════╝╚══════╝
 ```
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Backend+Engineer+%7C+Building+things+that+scale;Go+%E2%80%A2+Distributed+Systems+%E2%80%A2+Clean+Code;Breaking+things+in+production+since+2020" alt="Typing SVG" />
-  </a>
-</p>
+**`Backend Engineer`** · **`Spain 🇪🇸`**
+
+<br>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=500&lines=%24+go+build+./...;%24+docker+compose+up+-d;%24+kubectl+apply+-f+production.yaml" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<a href="mailto:joel.teodoro.software@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail" width="24" height="24" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/joel-teodoro-gomez/">
+  <img src="https://cdn.simpleicons.org/linkedin" width="24" height="24" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://joelteogom.github.io/">
+  <img src="https://cdn.simpleicons.org/googlechrome" width="24" height="24" alt="Portfolio"/>
+</a>
+
+</div>
+
+<br>
 
 ---
 
@@ -92,10 +118,14 @@ practices:
 ### `$ ps aux | grep focus`
 
 ```diff
+@@ current focus @@
+
 + Building microservices with Go — obsessed with performance & simplicity
 + Deep diving into Kafka internals — event streaming is beautiful
 + Kubernetes patterns — making deployments boring (in a good way)
 + System design — preparing for scale before it's needed
+
+@@ actively avoiding @@
 
 - Premature optimization (learning to resist)
 - Writing code without tests (never again)
@@ -158,17 +188,17 @@ Random experiments, proof of concepts, and "what if I try this?" projects. Most 
 ```
 
 <p align="center">
-  <a href="mailto:joel.teodoro.software@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/joel-teodoro-gomez/">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://joelteogom.github.io/">
-    <img src="https://img.shields.io/badge/portfolio-000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
+<a href="mailto:joel.teodoro.software@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail" width="28" height="28" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/joel-teodoro-gomez/">
+  <img src="https://cdn.simpleicons.org/linkedin" width="28" height="28" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://joelteogom.github.io/">
+  <img src="https://cdn.simpleicons.org/googlechrome" width="28" height="28" alt="Portfolio"/>
+</a>
 </p>
 
 ---
@@ -176,18 +206,16 @@ Random experiments, proof of concepts, and "what if I try this?" projects. Most 
 ### `$ git log --stat`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joelteogom&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joelteogom&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joelteogom&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joelteogom&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" width="340"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joelteogom&color=58A6FF&style=flat-square&label=profile+views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=joelteogom&color=00ff88&style=flat-square&label=views"/>
 </p>
 
 <p align="center">
-  <sub>
-    <code>// TODO: write better commit messages</code>
-  </sub>
+  <code>// TODO: write better commit messages</code>
 </p>
