@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://joelteogom.github.io/">
+<a href="https://runtimerants.dev/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="32" height="32" alt="Portfolio"/>
 </a>
 
