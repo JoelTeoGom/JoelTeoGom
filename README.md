@@ -42,25 +42,14 @@
 joel-teodoro 24.0-go #1 SMP PREEMPT backend distributed-systems x86_64 GNU/Linux
 ```
 
-I build and run booking platforms: hotels and buses. Payments, cancellations,
-refunds, and third-party APIs that document one thing and return another. Go on
-Kubernetes, real traffic, real money.
+I build booking platforms in Go: hotels and buses, real traffic, real money.
+What I enjoy is opening the layers underneath. Right now that means **Kubernetes**
+(CKA on the way) and **database internals**. This GitHub is where I rebuild things
+from scratch until they stop being magic, and **[runtimerants.dev](https://runtimerants.dev)**
+is where I write down what broke along the way.
 
-Lately most of my time goes into two things:
-
-**Kubernetes.** I'm preparing the CKA, but the exam is the excuse, not the goal. I want
-to know what actually happens between `kubectl apply` and a running pod: the control
-plane, reconciliation loops, how kube-proxy turns a ClusterIP into iptables rules.
-So I'm building my own small orchestrator to find out, which dragged me straight into
-Linux namespaces, netfilter and a lot of networking I thought I already knew.
-
-**Database internals.** Everything eventually ends up on disk, and I want to understand
-how. I'm working through *Database Internals* (Petrov) alongside engineering write-ups
-like Uber's move from Postgres to MySQL: pages, B+ trees vs LSM trees, WAL, MVCC, and
-why two databases that look the same from SQL behave so differently underneath.
-
-Most of what I know came from something breaking first. I write it down at
-**[runtimerants.dev](https://runtimerants.dev)** so I don't have to learn it twice.
+> 📚 **[`software-engineering-guide`](https://github.com/JoelTeoGom/software-engineering-guide)**
+> The articles, blogs and books that shaped how I think about software, each with what I took from it.
 
 ---
 
@@ -224,9 +213,7 @@ also_shipped:
 + Concurrency in Go             Cox-Buday    read it twice
 ```
 
-Everything worth rereading lives in
-**[`software-engineering-guide`](https://github.com/JoelTeoGom/software-engineering-guide)**:
-articles, papers and books, each with what I actually took from it.
+The full list lives in the guide linked above.
 
 ---
 
