@@ -94,11 +94,70 @@ storage_engines     loading     pages, B+ trees vs LSM, WAL, MVCC: everything en
 Building the things I use, from scratch, until they stop being magic.
 
 ```console
-NAME                 READY   STATUS    NOTES
-l4-load-balancer     1/1     Running   TCP load balancer in Go, data plane and control plane split
-mini-orchestrator    1/1     Running   own control plane + node agent; pods in their own netns,
-                                       services wired with iptables DNAT across nodes
+NAME                      READY   STATUS    AGE
+kubernetes-from-scratch   1/1     Running   building
+pdfbox-aws                1/1     Running   shipped
+my-http-server            1/1     Running   shipped
+go-key-affinity-lb        1/1     Running   shipped
+go-sharded-ws-hub         1/1     Running   shipped
 ```
+
+<table>
+<tr>
+<td colspan="2">
+
+**[`kubernetes-from-scratch`](https://github.com/JoelTeoGom/kubernetes-from-scratch)**
+> A toy Kubernetes, written by hand
+
+A control plane, node agents and an L4 load balancer in front, talking over a protocol
+of their own. The agent does what kubelet and kube-proxy do: pod lifecycle, network
+namespaces, veth pairs, a node bridge, and `KUBE-*` iptables chains that DNAT a service
+address to a real pod. Nothing wraps an existing tool.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[`pdfbox-aws`](https://github.com/JoelTeoGom/pdfbox-aws)**
+> File bytes never touch the backend
+
+Serverless multi-tenant storage: Go on Lambda, DynamoDB for metadata, uploads straight
+to S3 with presigned URLs. S3 events into SQS with a DLQ, an EventBridge-scheduled sweeper
+over a sparse GSI. All Terraform.
+
+</td>
+<td width="50%">
+
+**[`my-http-server`](https://github.com/JoelTeoGom/my-http-server)**
+> HTTP, parsed by hand
+
+Request parsing, routing and responses written from scratch over raw TCP. The fastest
+way I know to stop treating `net/http` as magic.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[`go-key-affinity-lb`](https://github.com/JoelTeoGom/go-key-affinity-lb)**
+> 1000 concurrent requests, 4 backend calls
+
+Key-affinity routing plus singleflight on each node. Neither works alone: affinity puts
+every request for a key on the same node, singleflight collapses them there.
+
+</td>
+<td width="50%">
+
+**[`go-sharded-ws-hub`](https://github.com/JoelTeoGom/go-sharded-ws-hub)**
+> Fan-out that survives slow clients
+
+Sharded in-memory hub, one write pump per connection, non-blocking send. A client that
+can't keep up gets dropped. One slow consumer should never stall the broadcast.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -113,7 +172,9 @@ core:
 
 infrastructure:
   orchestration: [kubernetes, docker]
-  cloud:         [gcp, cloud-run]
+  cloud:         [gcp, cloud-run, aws]
+  aws:           [lambda, api-gateway, dynamodb, s3, sqs, eventbridge, iam]
+  iac:           [terraform]
   ci_cd:         [gitlab-ci, github-actions]
   linux:         [namespaces, cgroups, netfilter/iptables]
 
@@ -139,12 +200,11 @@ also_shipped:
 
 | Repo | What it does |
 | --- | --- |
-| [`go-sharded-ws-hub`](https://github.com/JoelTeoGom/go-sharded-ws-hub) | WebSocket fan-out that drops slow clients instead of stalling the broadcast |
 | [`go-redis-token-bucket`](https://github.com/JoelTeoGom/go-redis-token-bucket) | One rate limit across N nodes, enforced by an atomic Lua script |
+| [`go-hash-ring`](https://github.com/JoelTeoGom/go-hash-ring) | Consistent hashing with virtual nodes, every number measured |
 | [`go-priority-scheduler`](https://github.com/JoelTeoGom/go-priority-scheduler) | Min-heap ordering, `sync.Cond` parking, no idle spinning |
 | [`CrispLite`](https://github.com/JoelTeoGom/CrispLite) | Chat end to end: WebSockets, Redis Pub/Sub, Postgres, hexagonal |
 | [`DDD-Ecommerce`](https://github.com/JoelTeoGom/DDD-Ecommerce) | Bounded contexts and aggregates that enforce their own invariants |
-| [`my-http-server`](https://github.com/JoelTeoGom/my-http-server) | HTTP parsed by hand over raw TCP |
 | [`go-errgroup-example`](https://github.com/JoelTeoGom/go-errgroup-example) | Parallel fetch, bounded concurrency, first error wins |
 | [`go-circuit-breaker-example`](https://github.com/JoelTeoGom/go-circuit-breaker-example) | Full `CLOSED → OPEN → HALF-OPEN` cycle against a failing downstream |
 | [`go-fanout-race`](https://github.com/JoelTeoGom/go-fanout-race) | Fan out N requests, keep the fastest, cancel the rest |
