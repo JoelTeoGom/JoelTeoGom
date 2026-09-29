@@ -6,7 +6,9 @@
 
 <img src="./assets/joel-wave.svg" width="450" alt="Joel Teodoro"/>
 
-**`Go Backend Engineer`** · **`Distributed Systems`** · **`Catalonia, Spain 🇪🇸`**
+**`Go`** · **`Distributed Systems`** · **`Kubernetes`** · **`Database Internals`**
+
+<sub>Backend Engineer · Catalonia, Spain 🇪🇸</sub>
 
 <br>
 
@@ -44,8 +46,18 @@ I build and run booking platforms: hotels and buses. Payments, cancellations,
 refunds, and third-party APIs that document one thing and return another. Go on
 Kubernetes, real traffic, real money.
 
-Lately I've been going **down the stack**: the kernel, the network, the orchestrator,
-the storage engine. The layers everyone relies on and few people open.
+Lately most of my time goes into two things:
+
+**Kubernetes.** I'm preparing the CKA, but the exam is the excuse, not the goal. I want
+to know what actually happens between `kubectl apply` and a running pod: the control
+plane, reconciliation loops, how kube-proxy turns a ClusterIP into iptables rules.
+So I'm building my own small orchestrator to find out, which dragged me straight into
+Linux namespaces, netfilter and a lot of networking I thought I already knew.
+
+**Database internals.** Everything eventually ends up on disk, and I want to understand
+how. I'm working through *Database Internals* (Petrov) alongside engineering write-ups
+like Uber's move from Postgres to MySQL: pages, B+ trees vs LSM trees, WAL, MVCC, and
+why two databases that look the same from SQL behave so differently underneath.
 
 Most of what I know came from something breaking first. I write it down at
 **[runtimerants.dev](https://runtimerants.dev)** so I don't have to learn it twice.
