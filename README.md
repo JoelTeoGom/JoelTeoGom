@@ -4,19 +4,25 @@
 
 <div align="center">
 
-### Joel Teodoro · Backend & Platform Engineer
+<img src="./assets/joel-wave.svg" width="450" alt="Joel Teodoro"/>
 
 **`Go`** · **`Distributed Systems`** · **`Kubernetes`** · **`Database Internals`**
 
-<sub>Barcelona, Spain</sub>
+<sub>Backend & Platform Engineer · Barcelona, Spain</sub>
 
 <br>
 
-<a href="mailto:joel.teodoro.software@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="28" height="28" alt="Email"/></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/joel-teodoro-gomez/"><img src="https://skillicons.dev/icons?i=linkedin" width="28" height="28" alt="LinkedIn"/></a>
-&nbsp;&nbsp;
-<a href="https://runtimerants.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="28" height="28" alt="Blog"/></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=560&lines=%24+ip+netns+exec+pod-a+curl+10.0.0.2%3A8080;%24+iptables+-t+nat+-L+PREROUTING+-n;%24+kubectl+get+nodes+-o+wide;%24+go+test+-race+.%2F..." alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<a href="mailto:joel.teodoro.software@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="32" height="32" alt="Email"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/joel-teodoro-gomez/"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://runtimerants.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="32" height="32" alt="Blog"/></a>
 
 </div>
 
@@ -27,6 +33,13 @@
 I run booking and payment systems in Go in production: hotels and buses, real traffic, real money.
 On my own I rebuild the layers underneath, **Kubernetes** and **database internals**, until they stop
 being magic, and I write it up at **[runtimerants.dev](https://runtimerants.dev)**. Preparing the CKA.
+
+```yaml
+State:     R (running)            # backend in production, every day
+Lang:      go                     # everything I ship
+Layer:     application → kernel   # currently descending
+Signals:   SIGTERM handled        # graceful shutdown, obviously
+```
 
 ---
 
